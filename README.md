@@ -71,19 +71,19 @@ Compare the outputs to your calculations abov
 
 ## How to run?
 
-install * [Anaconda](https://anaconda.org/anaconda/python)
+Install : [Anaconda](https://www.anaconda.com/download/)
+
+Install numpy
+
+``` conda install numpy ```
 
 cd to the repository folder
 use 
 
 ``` $ jupyter notebook ```
 
-Install numpy
-
-``` conda install numpy ```
-
 to start jupyter notebook
 
-For part 5 please install seaborn:
+For part 5 install seaborn:
 
 ``` pip install seaborn ```
