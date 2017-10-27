@@ -68,3 +68,22 @@ Calculate the R-squared value for your line above.
 
 Use gradient descent to approximate the best fit line for the petal length and petal width setosa values.
 Compare the outputs to your calculations abov
+
+## How to run?
+
+install * [Anaconda](https://anaconda.org/anaconda/python)
+
+cd to the repository folder
+use 
+
+``` $ jupyter notebook ```
+
+Install numpy
+
+``` conda install numpy ```
+
+to start jupyter notebook
+
+For part 5 please install seaborn:
+
+``` pip install seaborn ```
